@@ -31,7 +31,7 @@ E-Health OntoForge is a project designed to revolutionize the way health and bio
 
 - **Frontend:**
   - JavaServer Pages (JSP)
-  - Java 2.0
+  - Java
 
 - **Markup Language:**
   - HTML
